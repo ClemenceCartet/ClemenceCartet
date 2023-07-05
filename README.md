@@ -1,9 +1,10 @@
 ## Hi there, I'm Clémence!
 
-I am learning **C**, **C++** and **TypeScript** in **<a href="https://42lyon.fr/">42 Lyon</a>, France**. </br>
-I am currently looking for an internship as a software developer in graphic programming!
+After several years in video editing, I set myself a new challenge by diving into the world of computer programming! </br>
+I am learning **C**, **C++** and **TypeScript** in **<a href="https://42lyon.fr/">42 Lyon</a>, France**. I'm particularly interested in graphic programming. </br>
 
-I love problem solving, learning new things and of course cats.
+I am currently looking for an internship as a software developer into this area! </br>
+I can't wait to deepen and apply the knowledge acquired in 42! :sparkles: </br></br>
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
